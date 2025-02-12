@@ -1,4 +1,7 @@
-# GildedRose-Refactoring-Kata_2025
+# (GildedRose-Refactoring-Kata_2025)[https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main]
+
+### 요구사항
+https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_kr.md
 
 ### refactoring 과정
 1. 불변성 적용
