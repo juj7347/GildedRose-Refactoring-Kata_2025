@@ -1,4 +1,4 @@
-# (GildedRose-Refactoring-Kata_2025)[https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main]
+# [GildedRose-Refactoring-Kata_2025](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main)
 
 ### 요구사항
 https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_kr.md
